@@ -1,0 +1,160 @@
+@media all and (max-width: 576px){
+    footer{
+        left: 1rem;
+        margin-right: 4.5rem;
+    }
+    ul{
+        position: relative;
+        right: 18rem;
+    }
+    .top-wrapper{
+        height: 40rem;
+    }
+    .lesson-wrapper{
+        height: 48rem;
+    }
+    .why-wrapper{
+        height: 58rem;
+    }
+    .rent-wrapper{
+        height: 29rem;
+    }
+    .faq-wrapper{
+        height: 48rem;
+    }
+    .content-judul{
+        width: 328px;
+        height: 60px;
+    }
+    .lesson-content-right{
+        position: relative;
+        right: 35rem;
+        padding-top: 10rem;
+    }
+    .content-one{
+        margin-left: .1rem;
+        height: .5rem;
+        text-align: center;
+    }
+    .content-two{
+        margin-left: 2rem;
+        height: .5rem;
+        margin-top: 10.5rem;
+    }
+    .list-item{
+        margin-top: 15px;
+    }
+    .icon-wu{
+        width: 1.5rem;
+    }
+    .carousel-item {
+        margin-top: 2rem;
+    }
+    .carousel-item img{
+        margin-top: 0px;
+        margin-left: 8rem;
+    }
+    .carousel-caption{
+        position: relative;
+        top: -4rem;
+    }
+    .carousel-caption img{
+        margin-left: -2.1rem;
+    }
+    .carousel-caption p{
+        width: 14rem;
+        margin-left: -1.5rem;
+    }
+    .carousel-control-prev{
+        margin-top: -5rem;
+    }
+    .carousel-control-next{
+        margin-top: -5rem;
+    }
+    .rate{
+        margin-top: 3rem;
+        margin-left: -6rem;
+    }
+    .desk-test{
+        margin-left: 2rem;
+        margin-top: -.5rem;
+    }
+    #logo{
+        left: .1rem;
+    }
+    #button-navbar{
+        position: relative;
+        left: 17.5rem;
+    }
+    #register{
+        width: 8rem;
+    }
+    #top-content-left{
+        position: relative;
+        right: 12rem;
+    }
+    #judul{
+        width: 328px;
+        height: 156px;
+    }
+    #sewa-mobil{
+        font-size: 12px;
+    }
+    #gambarmobil{
+        position: relative;
+        top: 5.5rem;
+        right: 16.7rem;
+        width: 22rem;
+        height: 12rem;
+    }
+    #girlimage{
+        position: absolute;
+        width: 245px;
+        height: 245px;
+        right: 5rem;
+        margin-top: 1rem;
+    }
+    #judul-ourservice{
+        width: 328px;
+        height: 72px;
+    }
+    #content-ourservice{
+        height: 100px;
+    }
+    #list-service{
+        margin-top: -.1rem;
+    }
+    #content-two-one{
+        margin-top: 2rem;
+    }
+    #blok{
+        margin-left: 1rem;
+        width: 328px;
+        height: 350px;
+    }
+    #blu-blok{
+        left: 2rem;
+        width: 328px;
+        height: 400px;
+    }
+    #desk-rent{
+        left: 2rem;
+        width: 212px;
+        height: 204px;
+    }
+    #rent-title{
+        left: 1rem;
+    }
+    #content-blublok{
+        left: 2rem;
+        width: 212px;
+        height: 204px;
+    }
+    #rent-content{
+        width: 21rem;
+        left: 1rem;
+    }
+    #fitur{
+        left: -2rem;
+    }
+}
